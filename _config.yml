@@ -1,0 +1,73 @@
+# SITE CONFIGURATION
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+url: "http://www.brockdonovan.com" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Brock Donovan
+  description: "A personal portfolio website" 
+
+  # Header and footer text
+  header_text: >
+     <h1>Rails Developer</h1>
+     <p>Data guy turned developer specializing in Rails.</p>
+  header_text_feature_image: 
+  # footer_text: 
+
+  # Icons
+  rss: false
+  email_address: brockdonovan@gmail.com
+  behance:
+  bitbucket:
+  dribbble: 
+  facebook: 
+  flickr:
+  github: docbronovan
+  google_plus:
+  instagram: 
+  linkedin:  https://www.linkedin.com/pub/brock-donovan/25/4a5/605
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  
+  steam:
+  tumblr:
+  twitter: "@docbronovan"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Read more &raquo;"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Lato:300,400,700,300italic,700italic|Abril+Fatface"
+
+# PAGINATION
+paginate: 100
+paginate_path: "blog/page:num"
+
+# COLLECTIONS
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+# BUILD SETTINGS
+markdown: kramdown
+
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
