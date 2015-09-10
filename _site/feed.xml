@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brock Donovan</title>
+    <atom:link href="http://www.brockdonovan.com/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://www.brockdonovan.com/portfolio/</link>
+    <description>A personal portfolio website</description>
+    <pubDate>Mon, 07 Sep 2015 13:14:33 -0400</pubDate>
+    
+      <item>
+        <title>Where to next?</title>
+        <link>http://www.brockdonovan.com/portfolio/2015/09/06/Where-to-next.html</link>
+        <guid isPermaLink="true">http://www.brockdonovan.com/portfolio/2015/09/06/Where-to-next.html</guid>
+        <description>&lt;p&gt;I hadn’t though too much about what comes after Bloc. Step 1, sign up for bloc. Step 2, complete bloc. Step 3, get a job. Simple. But now that my course is ending I find myself really thinking for the first time about what Step 3 is and what Step 3 means.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 06 Sep 2015 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Everybodys got a blog</title>
+        <link>http://www.brockdonovan.com/portfolio/2015/09/05/everyone-blog.html</link>
+        <guid isPermaLink="true">http://www.brockdonovan.com/portfolio/2015/09/05/everyone-blog.html</guid>
+        <description>&lt;p&gt;It seems these days there is an endless amount of ways to share information. It is important to consider why and how you put information out into the world.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you are in tech do you need a blog presence?&lt;/li&gt;
+  &lt;li&gt;Why you Blog: for you? to get hired? to help others?&lt;/li&gt;
+  &lt;li&gt;The why? not the how&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are in tech do you need a blog presence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You cannot go to any site it seems without being inundated with clickbait. Worst, best, first, primer, latest… they are all there. So does the world need to know if I had a hard time nesting routes in my first rails app? Or if I have the best way to learn routing in 3 steps? Or this one trick to routes you have to know? Probably not. I’m not really a writter anyway.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;You cannot go to any site it seems without being inendataed with clickbait. Worst, best, first, primer, latest.. they are all there.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Why one Blogs&lt;/strong&gt;
+This blog is not for you. This blog is for me to write down my thoughts. The best way to learn is to teach. But there is no one who wants to learn for someone who is just starting. So I’m teaching myself. In blog form.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The why? not the how&lt;/strong&gt;
+It doesn’t matter. Yet at the same time it does. If it helps you articulate your thoughts and make connections between what you are learning and the meaning of what you are doing.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Sep 2015 00:00:00 -0400</pubDate>
+      </item>
+    
+      <item>
+        <title>Improvements</title>
+        <link>http://www.brockdonovan.com/portfolio/2015/09/04/next-steps.html</link>
+        <guid isPermaLink="true">http://www.brockdonovan.com/portfolio/2015/09/04/next-steps.html</guid>
+        <description>&lt;p&gt;There are several things I want to improve on my projects that I just haven’t had time to implement yet.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Distinct style/theme for each.&lt;/li&gt;
+  &lt;li&gt;Implement more AJAX&lt;/li&gt;
+  &lt;li&gt;Implement more JS/HTML5 (cool effects)&lt;/li&gt;
+  &lt;li&gt;Incorporate API into my capstone&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 04 Sep 2015 00:00:00 -0400</pubDate>
+      </item>
+    
+  </channel>
+</rss>
