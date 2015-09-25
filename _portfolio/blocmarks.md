@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocmarks
-thumbnail-path: "img/Blocmarks.png"
+thumbnail-path: "img/blocmarks.png"
 short-description: Social Bookmarking With Email Integration
 
 ---

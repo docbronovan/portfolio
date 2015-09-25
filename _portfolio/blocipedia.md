@@ -26,6 +26,6 @@ Now I can collaborate with friends about the history of our fantasy football lea
 
 
 ## Conclusion
-This was the first project I integrated stripe in. So if you are looking for a Wiki-like tool hit me up!
+This was the first project I integrated stripe in so if you are looking for a Wiki-like tool hit me up!
 
 Also, this was the first app I took some liberties with the layout and design.

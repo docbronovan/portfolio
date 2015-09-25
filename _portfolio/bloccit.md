@@ -27,4 +27,4 @@ The app has log-in/log-out capability. Private/public options. The user may crea
 
 ## Conclusion
 
-This was my first rails app and it turned out just as I expected.
+This was my first rails app and it turned out just as I hoped it would.
